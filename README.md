@@ -25,9 +25,10 @@ The script:
 
 ## Usage Instructions
 Modify the script as needed:
-- **Change the domain** to your target.
+- **Change the domain** to your target at line 41.
 - **Adjust the limit** as required.
-- **Update the sources** list if necessary.
+- **Update the sources** list if necessary, using the default sources. 
+- **Modify the output file** name if needed at line 43.
 
 Run the script with **sudo**:
 ```bash
