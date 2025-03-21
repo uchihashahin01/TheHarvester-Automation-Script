@@ -34,6 +34,9 @@ Run the script with **sudo**:
 ```bash
 python3 script.py
 ```
+
+Or you can run this in vscode.
+
 Results will be stored in `theharvester_output.txt`.
 
 ---
@@ -50,7 +53,7 @@ Results will be stored in `theharvester_output.txt`.
 ### View Available Data Sources
 To see all supported data sources, run:
 ```bash
-theHarvester -h | grep "-b"
+theHarvester -h
 ```
 
 ### Run TheHarvester for a Specific Domain
