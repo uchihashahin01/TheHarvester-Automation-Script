@@ -63,7 +63,7 @@ def run_theHarvester(domain, limit, sources, output_file):
         f.write(final_summary)
 
 if __name__ == "__main__":
-    domain = "daffodilvarsity.edu.bd"
+    domain = "<example.com>"  # Replace with the target domain
     limit = 200
     output_file = "theharvester_output.txt"
     sources = [
